@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1693331000 source:c:\users\dell\desktop\c_projects&tasks\tasks\fabonanch_series\fab.c
+
+1693330421 source:c:\users\dell\desktop\c_projects&tasks\tasks\fabonanch_series\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fab.h"
+
+1693330086 c:\users\dell\desktop\c_projects&tasks\tasks\fabonanch_series\fab.h
+
